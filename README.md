@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AN0TH3R14U
+- 👋 Hi, I’m @AN0TH3R14U (pronounced Another One For You)
 - 👀 I’m interested in Linuix/Unix
 - 🌱 I’m currently learning ACCS
 - 💞️ I’m looking to collaborate on any & everything
